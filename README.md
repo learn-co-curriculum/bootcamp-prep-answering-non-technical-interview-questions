@@ -1,3 +1,5 @@
+## Answering Key Non-Technical Interview Questions
+
 You’re interviewing for a technical position, but that doesn’t mean that only your technical merits will get you the job offer. You’re likely still going to have conversations where the focus is not on your technical skills but on your interpersonal and communication skills. Employers want to figure out if you’re a person they want to spend 40+ hours with every week. They’re looking for a person who is confident, can connect with people and can create a narrative of their history and background that is easy to understand.
 
 Generally we have found that if you prepare answers to the below non-technical questions, that you’ll be ready for most interview questions that are thrown your way
