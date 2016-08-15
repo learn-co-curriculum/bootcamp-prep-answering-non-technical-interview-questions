@@ -113,10 +113,6 @@ We will discuss ways to develop your questions in a later lesson.
 
 Some companies will ask more in-depth behavioral questions in addition to the ones listed above. To ensure you are prepared, google a list of behavioral interview questions on the internet to get a sense of the diversity of questions you can potentially expect, such as ‘What is your biggest strength?’,  ‘What are you most proud of?’, or ‘How do you use data to solve problems?’
 
-## Assignment
-
-There is nothing to submit after completing this lesson. However, once you are cleared to graduate, your coach will set up a mock cultural/HR-style interview with you. In preparation for that mock interview, your coach will ask you to prepare for these questions.
-
 ## Resources
 
 [9 Things Interviewers Never Tell Job Candidates, But Should](https://www.linkedin.com/pulse/20140916123750-20017018-9-things-interviewers-never-tell-job-candidates-but-should)
