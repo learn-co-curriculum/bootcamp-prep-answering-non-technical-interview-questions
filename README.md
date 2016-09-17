@@ -89,7 +89,7 @@ If your interviewer is an HR or recruiting professional, don’t get too deep in
 
 If your interviewer is a technical professional, you will have to go more in depth. In this case, refer to the tips in our lesson in this track on talking about what you’ve built.
 
-**What are you looking in a job?**
+**What are you looking for in a job?**
 
 *Decoded: Don’t be fooled -- this still isn’t about you. This is your chance to demonstrate the ways you want to contribute to a company, not the place for you to ask for mentoring or to remind the employer of how junior you are.*
 
@@ -121,3 +121,5 @@ Some companies will ask more in-depth behavioral questions in addition to the on
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-answering-non-technical-interview-questions'>Bootcamp Prep: Answering Non-Technical Interview Questions </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-answering-non-technical-interview-questions'>Answering Non-Technical Interview Questions</a> on Learn.co and start learning to code for free.</p>
