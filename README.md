@@ -120,6 +120,4 @@ Some companies will ask more in-depth behavioral questions in addition to the on
 [9 Things Interviewers Never Tell Job Candidates, But Should](https://www.linkedin.com/pulse/20140916123750-20017018-9-things-interviewers-never-tell-job-candidates-but-should)
 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-answering-non-technical-interview-questions'>Bootcamp Prep: Answering Non-Technical Interview Questions </a> on Learn.co and start learning to code for free.</p>
-
 <p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-answering-non-technical-interview-questions'>Answering Non-Technical Interview Questions</a> on Learn.co and start learning to code for free.</p>
