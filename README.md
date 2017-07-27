@@ -75,7 +75,7 @@ If you were laid off:
 
 If you were fired:
 - "My manager and I decided to mutually part ways. I didn't fully understand their expectations when I started in the role."
-- "Regrettably, my performance didn't meet the company's expectations. Since then, I have reflected a lot on how I cam improve and am much more confident in my skills now."
+- "Regrettably, my performance didn't meet the company's expectations. Since then, I have reflected a lot on how I can improve and am much more confident in my skills now."
 
 **What have you built?**
 
